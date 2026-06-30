@@ -179,10 +179,10 @@ admin123
 
 ## 👨‍💻 Author
 
-**Kothinti Tharun**
+**Shalini M**
 
 GitHub:
-https://github.com/KothintiTharun035
+https://github.com/Shalinigowd.git
 
 ---
 
